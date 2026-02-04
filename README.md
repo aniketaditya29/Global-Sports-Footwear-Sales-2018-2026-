@@ -2,11 +2,15 @@
 ---------------------------------------------------------------------------------------------------------------------------
 ### Project Description:
 
-    This project focuses on the comprehensive analysis of a global sports footwear sales dataset spanning nine years (2018–2026). It encompasses transactional data from major brands such as Nike, ASICS, Adidas, Puma, Reebok, and New Balance. The project explores sales performance across various footwear categories (Running, Basketball, Lifestyle, etc.), regional markets (USA, UK, India, UAE, etc.), and customer demographics to understand market trends and consumer purchasing patterns.
+    This project focuses on the comprehensive analysis of a global sports footwear sales dataset spanning nine years (2018–2026). 
+    It encompasses transactional data from major brands such as Nike, ASICS, Adidas, Puma, Reebok, and New Balance. 
+    The project explores sales performance across various footwear categories (Running, Basketball, Lifestyle, etc.), 
+    regional markets (USA, UK, India, UAE, etc.), and customer demographics to understand market trends and consumer purchasing patterns.
 
 ### Project Goal:
 
-    The primary goal of this project is to leverage data analytics to evaluate global sales performance, identify key growth drivers, and provide actionable insights for optimizing inventory, pricing, and marketing strategies for a global footwear retailer or manufacturer.
+    The primary goal of this project is to leverage data analytics to evaluate global sales performance, identify key growth drivers, 
+    and provide actionable insights for optimizing inventory, pricing, and marketing strategies for a global footwear retailer or manufacturer.
 
 ### Objectives:
 
